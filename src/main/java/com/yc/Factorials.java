@@ -5,6 +5,7 @@ package com.yc;
 */
 public class Factorials {
 	public static void main(String[] args) {
+	
 		System.out.println(fact(7));
 	}
 
