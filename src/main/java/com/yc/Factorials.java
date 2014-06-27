@@ -19,4 +19,8 @@ public class Factorials {
 	
 		System.out.println("test case");
 	}
+	public void add(){
+		
+		System.out.println("add");
+	}
 }
