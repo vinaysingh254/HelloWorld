@@ -1,5 +1,8 @@
 package com.yc;
-
+/**
+*@author vinay singh
+*organization Chetu India Pvt Ltd
+*/
 public class Factorials {
 	public static void main(String[] args) {
 		System.out.println(fact(7));
