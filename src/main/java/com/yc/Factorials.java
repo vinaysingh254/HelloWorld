@@ -5,6 +5,7 @@ package com.yc;
 */
 public class Factorials {
 	public static void main(String[] args) {
+	
 		System.out.println(fact(7));
 	}
 
@@ -15,6 +16,7 @@ public class Factorials {
 			return n * fact(n - 1);
 	}
 	public void testcase(){
+	
 		System.out.println("test case");
 	}
 }
